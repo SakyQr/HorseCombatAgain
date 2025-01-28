@@ -1,8 +1,0 @@
-name: HorseCombatAgain
-version: '1.0-SNAPSHOT'
-main: org.SakyQ.horseCombatAgain.HorseCombatAgain
-api-version: '1.21'
-commands:
-  givelance:
-    description: Gives the player an Epic Lance
-    usage: /<command>
